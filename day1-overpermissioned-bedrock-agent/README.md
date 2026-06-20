@@ -375,10 +375,6 @@ deletion simply could not happen.*
 > the fix works. The `AccessDenied`-style response above is still valid, real evidence
 > regardless — the agent's own error message confirms the deletion call failed.
 
-![The backups bucket, still empty from the earlier attack](images/13-bucket-intact-after-fix.png)
-*`customer-backups-prod-d1jun17` — 0 objects, same as after the vulnerable-half attack.
-See note above.*
-
 ### 3. Confirm normal behavior still works
 
 Re-run the baseline prompt from step 1 of the vulnerable half — proving the fix didn't
