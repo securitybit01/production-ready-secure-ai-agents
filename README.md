@@ -1,11 +1,4 @@
 # Production-Ready Secure AI Agents
 
-50 days of securing AI agents — real attacks, real fixes, real AWS/GCP infrastructure.
+50 days of securing AI agents â€” real attacks, real fixes, real AWS/GCP infrastructure.
 
-## Labs
-
-| Day | Lab |
-|---|---|
-| Day 1 | [The Overpermissioned Bedrock Agent](day-01-overpermissioned-bedrock-agent/) |
-
-More labs coming soon.
